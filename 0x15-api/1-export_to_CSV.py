@@ -1,24 +1,3 @@
-
-luischaparroc
-/
-holberton-system_engineering-devops
-Public
-Code
-Issues
-1
-Pull requests
-2
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-holberton-system_engineering-devops/0x15-api/1-export_to_CSV.py
-@luischaparroc
-luischaparroc [Feature]: adding script that exports a CSV file with employee info
-…
- 1 contributor
-Executable File  34 lines (29 sloc)  1.02 KB
 #!/usr/bin/python3
 """ Script that uses JSONPlaceholder API to get information about employee """
 import csv
